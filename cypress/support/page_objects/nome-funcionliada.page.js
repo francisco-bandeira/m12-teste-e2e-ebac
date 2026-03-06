@@ -1,6 +1,6 @@
 class NomeClasse {
 
-    nomeMetodo(parametros ){
+    nomeMetodo(parametros) {
         //ações do método
     }
 
